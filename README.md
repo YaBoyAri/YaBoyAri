@@ -26,7 +26,7 @@ I’ve led cross-functional teams across frontend, backend, machine learning, an
 * 🛠 &nbsp; I’m currently working with JS, TS, React, Node etc.
 * 🚀 &nbsp; I’m currently exploring ML, Gen AI, Com-Vi, etc.
 * 💬 &nbsp; Ask me anything [here](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlzrLbKSrBhtVrbBprkggnnPmGJQbVwfwcKZkWxbZdVPWmlnfBdSqdfkKJvDsLGjWFpKG)! I am happy to help.
-* 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+* 📫 &nbsp; Reach me out: afratsin14@gmail.com.
 
 ### My Absolute Favorites:
 
