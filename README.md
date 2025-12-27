@@ -6,8 +6,6 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YaBoyAri&label=Profile%20views&color=0e75b6&style=flat" alt="YaBoyAri" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
 I’m a full-stack engineer who focuses on solving real problems through first-principles thinking and clean system design. I work primarily with JavaScript ecosystems (Node.js, React, Next.js) and modern infrastructure (AWS, MongoDB) to build scalable products from the ground up.
 
 I’ve led cross-functional teams across frontend, backend, machine learning, and DevOps—translating ambiguous problems into concrete technical solutions and shipping systems that actually get used. I care less about trends and more about fundamentals: clarity, scalability, and long-term impact.
