@@ -64,7 +64,7 @@ I’ve led cross-functional teams across frontend, backend, machine learning, an
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+  	    <li><b>OS:</b> MacOS 15.0.1 Sequoia</li>
 	    <li><b>Laptop: </b> Macbook Pro 2018 </li>
 		<li><b>PC: </b> Ryzen 5 7500F & Radeon RX 7600 </li>
   	    <li><b>Browser: </b> Chrome & Safari</li>
